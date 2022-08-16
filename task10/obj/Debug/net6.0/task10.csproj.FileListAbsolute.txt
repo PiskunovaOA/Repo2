@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\bin\Debug\net6.0\task10.exe
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\bin\Debug\net6.0\task10.deps.json
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\bin\Debug\net6.0\task10.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\bin\Debug\net6.0\task10.pdb
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\refint\task10.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.pdb
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 2\GITSS2C#\Tasks\task10\obj\Debug\net6.0\ref\task10.dll
